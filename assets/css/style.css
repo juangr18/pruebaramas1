@@ -1,1 +1,5 @@
 /* Generar estilos en css */
+h1{
+    font-size: large;
+    color: #151580;
+}
